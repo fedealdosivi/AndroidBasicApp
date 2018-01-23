@@ -18,9 +18,10 @@
 
     <Button
         android:id="@+id/btnGoToAct"
-        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
         android:text="Go To Second Activity"
-        tools:layout_editor_absoluteX="98dp"
-        tools:layout_editor_absoluteY="124dp" />
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="100dp" />
 
 </android.support.constraint.ConstraintLayout>
